@@ -6,7 +6,7 @@
 
 Projeto construído do evento nex Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://joao7001.github.io/nlw-esports-rocketseat)
+[🔗 Clique aqui para acessar.](https://joao7001.github.io/nlw-esports-rocketseat)
 
 ## ⚙ Tecnologias
 - HTML
