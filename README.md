@@ -15,4 +15,5 @@ Projeto construído do evento nex Level Week da Rocketseat.
 
 ## 📞 Contato
 
-ujoaoo7001@gmail.com
+- ujoaoo7001@gmail.com
+- [Outros meios de contato](https://beacons.ai/joao7001)
